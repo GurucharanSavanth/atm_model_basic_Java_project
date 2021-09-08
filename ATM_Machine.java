@@ -70,7 +70,7 @@ public class ATM_Machine
                 case 4:
                     //exit from the the ATM menus
                     System.exit(0);
-                    //reposetry in My github Gurucharan 
+                    //reposetry in My github  
                     // https://github.com/GurucharanSavanth/atm_model_basic_Java_project/blob/ff8cacfcae7b580e8811271b9ec66795e48fee2c/ATM_Machine.java
             }
         }
