@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-//create ATMExample class to implement the ATM functionality
+//create ATM class to execute the ATM basic function
 public class ATM_Machine
 {
     //main method starts
